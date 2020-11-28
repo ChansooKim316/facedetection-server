@@ -11,4 +11,4 @@
   - PostgreSQL
   - Face recognition API (clarifai.com)
 
-![](./usage.png)
+![](./Demonstration.gif)
