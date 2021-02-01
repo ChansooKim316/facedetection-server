@@ -1,8 +1,6 @@
-## Face Detection App : Back-End
+## Face Detection App : Server
 
-### Source code for the Back-End (click [here](https://fd-smart-brain.herokuapp.com/) to see the web site)
-
-### Technologies
+### Source code for the server (click [here](https://fd-smart-brain.herokuapp.com/) to see the web site)
 
   - JavaScript, HTML, CSS
   - Node.js
